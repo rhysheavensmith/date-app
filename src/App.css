@@ -1,0 +1,22 @@
+.date-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.date-container h1 {
+  margin: 20px;
+}
+
+.step {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
